@@ -10,20 +10,21 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡-Superfast-39FF14?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯-Perfect Accuracy-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖-AI Powered-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💡-Smart Learning-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💚-Made with Love-red?style=for-the-badge" />
-</p>
-
 <!-- Banner Image -->
 <p align="center">
-  <a href="[[[https://files.catbox.moe/gpf7dr.webp](https://files.catbox.moe/p34kiv.gif)](https://files.catbox.moe/p34kiv.gif)](https://files.catbox.moe/p34kiv.gif)">
-    <img src="https://files.catbox.moe/sl71in.webp" width="100%" height="auto">
+  <a href="https://files.catbox.moe/0spisb.jpg">
+    <img src="https://files.catbox.moe/0spisb.jpg" width="100%" height="auto">
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡-Superfast-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-AI%20Powered-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯-Perfect%20Accuracy-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐-Always%20Ready-lightblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💚-Made%20with%20Care-success?style=for-the-badge" />
 </p>
 
 ---
