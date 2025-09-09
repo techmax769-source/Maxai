@@ -21,7 +21,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="https://files.catbox.moe/gpf7dr.webp">
+  <a href="[[https://files.catbox.moe/gpf7dr.webp](https://files.catbox.moe/p34kiv.gif)](https://files.catbox.moe/p34kiv.gif)">
     <img src="https://files.catbox.moe/sl71in.webp" width="100%" height="auto">
   </a>
 </p>
