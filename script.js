@@ -1,4 +1,4 @@
-AIzaSyBPHvhMcLeT52nrrKXX5hBG2ymA34DvdXEvhMcLeT52nrrKXX5hBG2ymA34DvdXE.querySelector(".chat-body");
+const chatBody = document.querySelector(".chat-body");
 const messageInput = document.querySelector(".message-input");
 const sendMessageButton = document.querySelector("#send-message");
 const fileInput = document.querySelector("#file-input");
