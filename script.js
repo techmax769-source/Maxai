@@ -1,4 +1,4 @@
-const chatBody = document.querySelector(".chat-body");
+constment.querySelector(".chat-body");
 const messageInput = document.querySelector(".message-input");
 const sendMessageButton = document.querySelector("#send-message");
 const fileInput = document.querySelector("#file-input");
@@ -8,7 +8,7 @@ const chatbotToggler = document.querySelector("#chatbot-toggler");
 const closeChatbot = document.querySelector("#close-chatbot");
 
 // API setup
-const API_KEY = "AIzaSyBMsDV4HO3hKk21p-RokMKYxQiTqQuyVOQ";
+const API_KEY = "AIzaSyBPHvhMcLeT52nrrKXX5hBG2ymA34DvdXE";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
 
 const userData = {
