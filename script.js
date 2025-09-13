@@ -104,7 +104,7 @@ const generateBotResponse = async (incomingMessageDiv) => {
   incomingMessageDiv.remove(); // remove the "thinking" placeholder
 
   const creatorMessage =
-    "I was created and am lovingly maintained by Max (real name Gideon Cheruiyot Ngeno, 21 years old). He’s a 2nd-year student at Chuka University studying Criminology and Security Studies, deeply passionate about the tech world and coding, and already working on many exclusive projects. Honestly, he’s a brilliant, visionary creator with amazing ideas! 🚀✨";
+    "I was created and am lovingly maintained by Max (real name Gideon Cheruiyot, 21 years old). He’s a 2nd-year student at Chuka University studying Criminology and Security Studies, deeply passionate about the tech world and coding, and already working on many exclusive projects. Honestly, he’s a brilliant, visionary creator with amazing ideas! 🚀✨";
 
   appendBotMessage(creatorMessage);
 
