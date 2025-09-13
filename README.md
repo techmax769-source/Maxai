@@ -29,7 +29,10 @@
   <img src="https://img.shields.io/badge/🤖-AI%20Powered-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎯-Perfect%20Accuracy-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌐-Always%20Ready-lightblue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💚-Made%20with%20Care-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💚-Made%20with%20Care-success?href=for-the-badge" />
+  <a href="https://wa.me/254738734134">
+    <img src="https://img.shields.io/badge/Contact%20Me-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="Contact me on WhatsApp" />
+</a>
 </p>
 
 ---
@@ -62,11 +65,4 @@ No waiting. No confusion. Just **pure intelligence at lightning speed**.
 
 ```bash
 👤 You: Max, explain Python loops.  
-🤖 Max Ai: Loops let you repeat code efficiently. Here’s a quick example...
-<p align="center">
-
-  <!-- Contact Me on WhatsApp -->
-  <a href="https://wa.me/254738734134">
-    <img src="https://img.shields.io/badge/Contact%20Me-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="Contact me on WhatsApp" />
-</a>
-</p>
+🤖 Max Ai: Loops let you repeat code efficiently. Here’s a quick example...>
