@@ -18,8 +18,13 @@
 </p>
 
 ---
+  
+  
 
 <p align="center">
+  <a href="https://maxai-dun.vercel.app/">
+    <img src="https://img.shields.io/badge/Open-Max%20Ai-blue?style=for-the-badge&logo=openai" alt="Open Max Ai" />
+  </a>
   <img src="https://img.shields.io/badge/⚡-Superfast-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤖-AI%20Powered-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎯-Perfect%20Accuracy-orange?style=for-the-badge" />
@@ -58,3 +63,10 @@ No waiting. No confusion. Just **pure intelligence at lightning speed**.
 ```bash
 👤 You: Max, explain Python loops.  
 🤖 Max Ai: Loops let you repeat code efficiently. Here’s a quick example...
+<p align="center">
+
+  <!-- Contact Me on WhatsApp -->
+  <a href="https://wa.me/254738734134">
+    <img src="https://img.shields.io/badge/Contact%20Me-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="Contact me on WhatsApp" />
+</a>
+</p>
