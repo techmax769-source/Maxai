@@ -84,6 +84,19 @@ const generateBotResponse = async (incomingMessageDiv) => {
     chatHistory.push({ role: "model", parts: [{ text: "I was created and lovingly maintained by Max🌟He built me so I can be here, helping and chatting with you.📌�" }] });
     return;
   }
+  if (
+    lowerMessage.includes("who made you") ||
+    lowerMessage.includes("who built you") ||
+    lowerMessage.includes("who created you")
+  ) {
+    incomingMessageDiv.remove(); // remove the "thinking" placeholder
+    appendBotMessage("I was created and lovingly maintained by Max🌟He built me so I can be here, helping and chatting with you.📌✌️");
+    chatHistory.push({
+      role: "model",
+      parts: [{ text: "I was created and lovingly maintained by Max🌟He built me so I can be here, helping and chatting with you📌✌️" }],
+    });
+    return;
+  }
   
   // API call for all other messages
   const requestOptions = {
