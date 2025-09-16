@@ -99,7 +99,7 @@ const generateBotResponse = async (incomingMessageDiv) => {
   }
   if (
   lowerMessage.includes("tell me about your creator") ||
-  lowerMessage.includes("tell me about maker")
+  lowerMessage.includes("tell me about your maker")
 ) {
   incomingMessageDiv.remove(); // remove the "thinking" placeholder
 
