@@ -7,8 +7,8 @@ const fileInput = document.querySelector("#file-input");
 const chatbotToggler = document.querySelector("#chatbot-toggler");
 const closeChatbot = document.querySelector("#close-chatbot");
 
-const API_KEY = "AIzaSyBPHvhMcLeT52nrrKXX5hBG2ymA34DvdXE";
-const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
+const API_KEY = "AIzaSyCKYYRHyXWr3tWJMXL8G0FItRSUzMluGMc";
+const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 const userData = {
   message: null,
